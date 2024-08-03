@@ -1,3 +1,3 @@
-module github.com/sunsnail0/go-tgf-game/kit
+module github.com/thkhxm/tgf/tgf-tutorial/kit
 
-go 1.22.4
+go 1.21.1
